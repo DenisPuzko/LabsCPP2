@@ -15,5 +15,5 @@ int main(void) {
     }
 
     cout << "Min element: " << min << endl;
-    return 0; // [cite: 30]
+    return 0;
 }
